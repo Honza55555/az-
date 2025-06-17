@@ -1,0 +1,3 @@
+# Specifikace verze Pythonu
+runtime: python
+pythonVersion: 3.12.4
